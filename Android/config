@@ -29,11 +29,11 @@
 		<TaskItem TaskIndex="20" TaskType="4" TaskValue="25" LocationIndex="20" ThemeVersion="1"/>
 		<TaskItem TaskIndex="21" TaskType="4" TaskValue="26" LocationIndex="21" ThemeVersion="1"/>
 		<TaskItem TaskIndex="22" TaskType="4" TaskValue="27" LocationIndex="22" ThemeVersion="1"/>
-		<TaskItem TaskIndex="23" TaskType="4" TaskValue="28" LocationIndex="21" ThemeVersion="1"/>
-		<TaskItem TaskIndex="24" TaskType="4" TaskValue="29" LocationIndex="22" ThemeVersion="1"/>
-		<TaskItem TaskIndex="25" TaskType="4" TaskValue="30" LocationIndex="21" ThemeVersion="1"/>
-		<TaskItem TaskIndex="26" TaskType="4" TaskValue="31" LocationIndex="22" ThemeVersion="1"/>
-		<TaskItem TaskIndex="27" TaskType="4" TaskValue="32" LocationIndex="21" ThemeVersion="1"/>
-		<TaskItem TaskIndex="28" TaskType="4" TaskValue="33" LocationIndex="22" ThemeVersion="1"/>
+		<TaskItem TaskIndex="23" TaskType="4" TaskValue="28" LocationIndex="23" ThemeVersion="1"/>
+		<TaskItem TaskIndex="24" TaskType="4" TaskValue="29" LocationIndex="24" ThemeVersion="1"/>
+		<TaskItem TaskIndex="25" TaskType="4" TaskValue="30" LocationIndex="25" ThemeVersion="1"/>
+		<TaskItem TaskIndex="26" TaskType="4" TaskValue="31" LocationIndex="26" ThemeVersion="1"/>
+		<TaskItem TaskIndex="27" TaskType="4" TaskValue="32" LocationIndex="27" ThemeVersion="1"/>
+		<TaskItem TaskIndex="28" TaskType="4" TaskValue="33" LocationIndex="28" ThemeVersion="1"/>
     </ServerTasks>
 </ServerConfigData>
