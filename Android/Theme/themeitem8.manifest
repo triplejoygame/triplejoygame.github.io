@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2976090510
+CRC: 2572943118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80657a7373450f218db43189c8490392
+    Hash: d36f1b517ffce016a945f888e37f0986
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -14,6 +14,6 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources_/AssetBundleResources/Theme/themeitem8/vertical.png
-- Assets/Resources_/AssetBundleResources/Theme/themeitem8/horizontal.png
+- Assets/Resources_/Textures/Theme/themeitem8/vertical.png
+- Assets/Resources_/Textures/Theme/themeitem8/horizontal.png
 Dependencies: []
