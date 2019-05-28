@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3116624260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ddfdd6f4557fa716777a15e3e5ad6f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03970310989e9ae0e8cd1c6f532688cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources_/AssetBundleResources/Config/themeindex10.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex26.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex1.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex25.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex14.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex12.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex13.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex5.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex20.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex8.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex18.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex27.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex24.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex11.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex0.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex28.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex9.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex16.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex7.png
+- Assets/Resources_/AssetBundleResources/Config/Traditional.json
+- Assets/Resources_/AssetBundleResources/Config/Chinese.json
+- Assets/Resources_/AssetBundleResources/Config/themeindex4.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex23.png
+- Assets/Resources_/AssetBundleResources/Config/English.json
+- Assets/Resources_/AssetBundleResources/Config/themeindex21.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex6.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex3.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex19.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex15.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex17.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex22.png
+- Assets/Resources_/AssetBundleResources/Config/themeindex2.png
+Dependencies: []
