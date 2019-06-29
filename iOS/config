@@ -3,12 +3,12 @@
     <!--new player no ad time-->
     <!--task items-->
     <NoAdGameTime>5</NoAdGameTime>
-<ResrouceVersion>2</ResrouceVersion>
+<ResrouceVersion>3</ResrouceVersion>
 	<!--new config 0123-->  <!--TaskType 0-login, 1-chllenge,2-win,3-sharing.-->
     <ServerTasks>
         <TaskItem TaskIndex="0" TaskType="4" TaskValue="5" LocationIndex="0" ThemeVersion="1"/>
         <TaskItem TaskIndex="1" TaskType="4" TaskValue="6" LocationIndex="1" ThemeVersion="1"/>
-        <TaskItem TaskIndex="2" TaskType="4" TaskValue="7" LocationIndex="2" ThemeVersion="1"/>
+        <TaskItem TaskIndex="2" TaskType="4" TaskValue="7" LocationIndex="2" ThemeVersion="2"/>
         <TaskItem TaskIndex="3" TaskType="4" TaskValue="8" LocationIndex="3" ThemeVersion="1"/>
 		<TaskItem TaskIndex="4" TaskType="4" TaskValue="9" LocationIndex="4" ThemeVersion="1"/>
 		<TaskItem TaskIndex="5" TaskType="4" TaskValue="10" LocationIndex="5" ThemeVersion="1"/>
