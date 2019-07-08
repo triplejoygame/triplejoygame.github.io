@@ -3,7 +3,7 @@
     <!--new player no ad time-->
     <!--task items-->
     <NoAdGameTime>5</NoAdGameTime>
-<ResrouceVersion>3</ResrouceVersion>
+<ResrouceVersion>4</ResrouceVersion>
 	<!--new config 0123-->  <!--TaskType 0-login, 1-chllenge,2-win,3-sharing.-->
     <ServerTasks>
         <TaskItem TaskIndex="0" TaskType="4" TaskValue="5" LocationIndex="0" ThemeVersion="1"/>
