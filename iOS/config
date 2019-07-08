@@ -13,7 +13,7 @@
 		<TaskItem TaskIndex="4" TaskType="4" TaskValue="9" LocationIndex="4" ThemeVersion="2"/>
 		<TaskItem TaskIndex="5" TaskType="4" TaskValue="10" LocationIndex="5" ThemeVersion="1"/>
 		<TaskItem TaskIndex="6" TaskType="4" TaskValue="11" LocationIndex="6" ThemeVersion="1"/>
-		<TaskItem TaskIndex="7" TaskType="4" TaskValue="12" LocationIndex="7" ThemeVersion="2"/>
+		<TaskItem TaskIndex="7" TaskType="4" TaskValue="12" LocationIndex="7" ThemeVersion="3"/>
 		<TaskItem TaskIndex="8" TaskType="4" TaskValue="13" LocationIndex="8" ThemeVersion="1"/>
 		<TaskItem TaskIndex="9" TaskType="4" TaskValue="14" LocationIndex="9" ThemeVersion="1"/>
 		<TaskItem TaskIndex="10" TaskType="4" TaskValue="15" LocationIndex="10" ThemeVersion="1"/>
