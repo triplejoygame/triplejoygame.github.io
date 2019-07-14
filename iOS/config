@@ -6,34 +6,34 @@
 <ResrouceVersion>1</ResrouceVersion>
 	<!--new config 0123-->  <!--TaskType 0-login, 1-chllenge,2-win,3-sharing.-->
     <ServerTasks>
-        <TaskItem TaskIndex="0" TaskType="4" TaskValue="5" LocationIndex="0" ThemeVersion="1"/>
-        <TaskItem TaskIndex="1" TaskType="4" TaskValue="6" LocationIndex="1" ThemeVersion="1"/>
-        <TaskItem TaskIndex="2" TaskType="4" TaskValue="7" LocationIndex="2" ThemeVersion="1"/>
-        <TaskItem TaskIndex="3" TaskType="4" TaskValue="8" LocationIndex="3" ThemeVersion="1"/>
-		<TaskItem TaskIndex="4" TaskType="4" TaskValue="9" LocationIndex="4" ThemeVersion="1"/>
-		<TaskItem TaskIndex="5" TaskType="4" TaskValue="10" LocationIndex="5" ThemeVersion="1"/>
-		<TaskItem TaskIndex="6" TaskType="4" TaskValue="11" LocationIndex="6" ThemeVersion="1"/>
-		<TaskItem TaskIndex="7" TaskType="4" TaskValue="12" LocationIndex="7" ThemeVersion="1"/>
-		<TaskItem TaskIndex="8" TaskType="4" TaskValue="13" LocationIndex="8" ThemeVersion="1"/>
-		<TaskItem TaskIndex="9" TaskType="4" TaskValue="14" LocationIndex="9" ThemeVersion="1"/>
-		<TaskItem TaskIndex="10" TaskType="4" TaskValue="15" LocationIndex="10" ThemeVersion="1"/>
-		<TaskItem TaskIndex="11" TaskType="4" TaskValue="16" LocationIndex="11" ThemeVersion="1"/>
-		<TaskItem TaskIndex="12" TaskType="4" TaskValue="17" LocationIndex="12" ThemeVersion="1"/>
-		<TaskItem TaskIndex="13" TaskType="4" TaskValue="18" LocationIndex="13" ThemeVersion="1"/>
-		<TaskItem TaskIndex="14" TaskType="4" TaskValue="19" LocationIndex="14" ThemeVersion="1"/>
-		<TaskItem TaskIndex="15" TaskType="4" TaskValue="20" LocationIndex="15" ThemeVersion="1"/>
-		<TaskItem TaskIndex="16" TaskType="4" TaskValue="21" LocationIndex="16" ThemeVersion="1"/>
-		<TaskItem TaskIndex="17" TaskType="4" TaskValue="22" LocationIndex="17" ThemeVersion="1"/>
-		<TaskItem TaskIndex="18" TaskType="4" TaskValue="23" LocationIndex="18" ThemeVersion="1"/>
-		<TaskItem TaskIndex="19" TaskType="4" TaskValue="24" LocationIndex="19" ThemeVersion="1"/>
-		<TaskItem TaskIndex="20" TaskType="4" TaskValue="25" LocationIndex="20" ThemeVersion="1"/>
-		<TaskItem TaskIndex="21" TaskType="4" TaskValue="26" LocationIndex="21" ThemeVersion="1"/>
-		<TaskItem TaskIndex="22" TaskType="4" TaskValue="27" LocationIndex="22" ThemeVersion="1"/>
-		<TaskItem TaskIndex="23" TaskType="4" TaskValue="28" LocationIndex="23" ThemeVersion="1"/>
-		<TaskItem TaskIndex="24" TaskType="4" TaskValue="29" LocationIndex="24" ThemeVersion="1"/>
-		<TaskItem TaskIndex="25" TaskType="4" TaskValue="30" LocationIndex="25" ThemeVersion="1"/>
-		<TaskItem TaskIndex="26" TaskType="4" TaskValue="31" LocationIndex="26" ThemeVersion="1"/>
-		<TaskItem TaskIndex="27" TaskType="4" TaskValue="32" LocationIndex="27" ThemeVersion="1"/>
-		<TaskItem TaskIndex="28" TaskType="4" TaskValue="33" LocationIndex="28" ThemeVersion="1"/>
+        <TaskItem TaskIndex="0" TaskType="4" TaskValue="2" LocationIndex="0" ThemeVersion="1"/>
+        <TaskItem TaskIndex="1" TaskType="4" TaskValue="5" LocationIndex="1" ThemeVersion="1"/>
+        <TaskItem TaskIndex="2" TaskType="4" TaskValue="9" LocationIndex="2" ThemeVersion="1"/>
+        <TaskItem TaskIndex="3" TaskType="4" TaskValue="12" LocationIndex="3" ThemeVersion="1"/>
+		<TaskItem TaskIndex="4" TaskType="4" TaskValue="15" LocationIndex="4" ThemeVersion="1"/>
+		<TaskItem TaskIndex="5" TaskType="4" TaskValue="18" LocationIndex="5" ThemeVersion="1"/>
+		<TaskItem TaskIndex="6" TaskType="4" TaskValue="21" LocationIndex="6" ThemeVersion="1"/>
+		<TaskItem TaskIndex="7" TaskType="4" TaskValue="23" LocationIndex="7" ThemeVersion="1"/>
+		<TaskItem TaskIndex="8" TaskType="4" TaskValue="27" LocationIndex="8" ThemeVersion="1"/>
+		<TaskItem TaskIndex="9" TaskType="4" TaskValue="31" LocationIndex="9" ThemeVersion="1"/>
+		<TaskItem TaskIndex="10" TaskType="4" TaskValue="35" LocationIndex="10" ThemeVersion="1"/>
+		<TaskItem TaskIndex="11" TaskType="4" TaskValue="40" LocationIndex="11" ThemeVersion="1"/>
+		<TaskItem TaskIndex="12" TaskType="4" TaskValue="45" LocationIndex="12" ThemeVersion="1"/>
+		<TaskItem TaskIndex="13" TaskType="4" TaskValue="50" LocationIndex="13" ThemeVersion="1"/>
+		<TaskItem TaskIndex="14" TaskType="4" TaskValue="55" LocationIndex="14" ThemeVersion="1"/>
+		<TaskItem TaskIndex="15" TaskType="4" TaskValue="60" LocationIndex="15" ThemeVersion="1"/>
+		<TaskItem TaskIndex="16" TaskType="4" TaskValue="65" LocationIndex="16" ThemeVersion="1"/>
+		<TaskItem TaskIndex="17" TaskType="4" TaskValue="70" LocationIndex="17" ThemeVersion="1"/>
+		<TaskItem TaskIndex="18" TaskType="4" TaskValue="75" LocationIndex="18" ThemeVersion="1"/>
+		<TaskItem TaskIndex="19" TaskType="4" TaskValue="80" LocationIndex="19" ThemeVersion="1"/>
+		<TaskItem TaskIndex="20" TaskType="4" TaskValue="85" LocationIndex="20" ThemeVersion="1"/>
+		<TaskItem TaskIndex="21" TaskType="4" TaskValue="90" LocationIndex="21" ThemeVersion="1"/>
+		<TaskItem TaskIndex="22" TaskType="4" TaskValue="95" LocationIndex="22" ThemeVersion="1"/>
+		<TaskItem TaskIndex="23" TaskType="4" TaskValue="100" LocationIndex="23" ThemeVersion="1"/>
+		<TaskItem TaskIndex="24" TaskType="4" TaskValue="105" LocationIndex="24" ThemeVersion="1"/>
+		<TaskItem TaskIndex="25" TaskType="4" TaskValue="110" LocationIndex="25" ThemeVersion="1"/>
+		<TaskItem TaskIndex="26" TaskType="4" TaskValue="115" LocationIndex="26" ThemeVersion="1"/>
+		<TaskItem TaskIndex="27" TaskType="4" TaskValue="120" LocationIndex="27" ThemeVersion="1"/>
+		<TaskItem TaskIndex="28" TaskType="4" TaskValue="125" LocationIndex="28" ThemeVersion="1"/>
     </ServerTasks>
 </ServerConfigData>
