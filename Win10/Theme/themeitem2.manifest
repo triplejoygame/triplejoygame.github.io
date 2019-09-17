@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3758449517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7ffd9a5ebd46b9d5030c887dbb9b235
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources_/Textures/Theme/themeitem2/vertical.png
+- Assets/Resources_/Textures/Theme/themeitem2/horizontal.png
+Dependencies: []
